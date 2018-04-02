@@ -3,7 +3,7 @@ Extracts important keywords from a .txt file.
 
 run subject_extraction.py
 
-Go to line 49 and 51 and file name
+Go to line 49 and 51 and add file name
 
     doc = open('filename.txt', 'r')
         docname = doc.name
