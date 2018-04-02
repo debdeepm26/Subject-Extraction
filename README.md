@@ -9,5 +9,5 @@ Go to line 49 and 51 and file name
         docname = doc.name
     document = open('filename.txt', 'r').read()
     
-makes text files with the output
+Makes a .txt file with the same name as the input file
 
